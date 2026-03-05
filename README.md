@@ -68,7 +68,7 @@ Learning Advanced Network Security & Pentesting
 > mission
 The quieter you become, the more you are able to hear.
 ​<hr>
-​🛠️ Technical Arsenal
+​
 ​<p align="left">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/OS-Linux-E95420%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tool-Termux-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtermux%26logoColor%3Dwhite" />
@@ -77,13 +77,13 @@ The quieter you become, the more you are able to hear.
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Dev-GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </p>
 ​<hr>
-​📊 Analytics & Stats
+​
 ​<p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DChootiya-hacking-tool%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00FF41%26icon_color%3D00FF41%26text_color%3Dffffff" width="48%" />
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DChootiya-hacking-tool%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26sideNums%3D00FF41%26stroke%3D00FF41" width="48%" />
 </p>
 ​<hr>
-​📡 Transmission Links
+​
 ​🎬 YouTube: Chootiya Cinemax
 ​🌐 Project: Cyber Root Hub
 ​<hr>
